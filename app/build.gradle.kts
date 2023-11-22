@@ -80,4 +80,7 @@ dependencies {
 
     //paging
     implementation("androidx.paging:paging-runtime:3.1.1")
+
+    //circle image
+    implementation("de.hdodenhof:circleimageview:3.1.0")
 }
